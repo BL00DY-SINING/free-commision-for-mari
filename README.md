@@ -24,12 +24,28 @@ Maria's bio
 <img width="150" height="20" alt="g53" src="https://github.com/user-attachments/assets/36be14f5-f7a3-4e8e-99b9-e723c8200f10" />
 <img width="150" height="20" alt="g100" src="https://github.com/user-attachments/assets/e85cb359-62db-415c-bbf3-1559bf1601e5" />
 <img width="150" height="20" alt="g1" src="https://github.com/user-attachments/assets/1be751c7-fc3a-4f17-b9ff-a84bafff100d" />
+
+
+
+
+<p align="center">
+  <img width="323" height="35" alt="tumblr_lhcsx7ljsu1qgjv7io1_400" src="https://github.com/user-attachments/assets/a9a353f3-6681-4bcd-9751-da80ef774b24" />
+
 <img width="99" height="56" alt="k20" src="https://github.com/user-attachments/assets/dc006d21-43ba-4264-8a0e-e4fcb8fccfb6" />
+
+
+
+
+<p align="center">
+  <img width="323" height="35" alt="tumblr_lhcsx7ljsu1qgjv7io1_400" src="https://github.com/user-attachments/assets/d5de69b1-9cbc-4918-9541-d73cbcb4d716" />
+
 <img width="99" height="56" alt="k16" src="https://github.com/user-attachments/assets/d0a6b6fa-5604-4cd3-b16e-69c4664790c3" />
 
 
 <p align="center">
   <img width="323" height="35" alt="tumblr_lhcsx7ljsu1qgjv7io1_400" src="https://github.com/user-attachments/assets/863969a3-3d39-4cb6-a0ab-3bff53c0cc5b" />
+
+
 
 <img width="102" height="58" alt="k18" src="https://github.com/user-attachments/assets/23626708-9d2b-4657-bf5d-f7dc1ef40db4" />
 
