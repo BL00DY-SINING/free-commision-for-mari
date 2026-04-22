@@ -1,4 +1,12 @@
 <p align="center">
+<img width="400" height="95" alt="tumblr_9204d8d36a468487ec6cd0803f50d744_f9c4bf4a_400" src="https://github.com/user-attachments/assets/ce6e89d4-54f8-4191-a86a-90f19e06037c" />
+
+
+<p align="center">
+<img width="400" height="41" alt="tumblr_381d9f307a1167b6bb02a879b3fb1033_7bfb27da_400" src="https://github.com/user-attachments/assets/5fed4d71-dbae-4c88-8537-c386d3f2dd06" />
+
+  
+  <p align="center">
 <img width="400" height="11" alt="tumblr_6d038defc1e793417135f6087b3e758a_b0951063_400" src="https://github.com/user-attachments/assets/7ed837c9-ea4f-45ac-afbe-16d1f404319f" />
 <p align="center">
 Maria's bio
@@ -42,12 +50,6 @@ Maria's bio
 <img width="99" height="56" alt="k16" src="https://github.com/user-attachments/assets/d0a6b6fa-5604-4cd3-b16e-69c4664790c3" />
 
 
-<p align="center">
-  <img width="323" height="35" alt="tumblr_lhcsx7ljsu1qgjv7io1_400" src="https://github.com/user-attachments/assets/863969a3-3d39-4cb6-a0ab-3bff53c0cc5b" />
-
-
-
-<img width="102" height="58" alt="k18" src="https://github.com/user-attachments/assets/23626708-9d2b-4657-bf5d-f7dc1ef40db4" />
 
 <p align="center">
 <img width="323" height="35" alt="tumblr_lhcsx7ljsu1qgjv7io1_400" src="https://github.com/user-attachments/assets/e769696d-c47a-4230-ace9-f38bb8fcaff8" />
@@ -64,3 +66,14 @@ Maria's bio
   <img width="323" height="35" alt="tumblr_lhcsx7ljsu1qgjv7io1_400" src="https://github.com/user-attachments/assets/9885d026-5c79-46e9-bc08-a01a7c0d7cc6" />
 
 <img width="100" height="100" alt="tumblr_868c9c8f37f9e0d2d4afab48a025ebca_47ba99fa_100" src="https://github.com/user-attachments/assets/4d836a09-336c-4ac7-b7e1-730179d48ed6" />
+
+
+
+<p align="center">
+<img width="400" height="41" alt="tumblr_bc4debc13d849cb5a6f49c7028af0823_2f43c7c2_400" src="https://github.com/user-attachments/assets/3ad6b616-6087-463e-bacc-04d2151110eb" />
+
+<p align="center">
+<img width="400" height="94" alt="tumblr_ce9f0b618dfa64fd508fcf421fbaaf17_a52a79e2_400" src="https://github.com/user-attachments/assets/5a9ae9c6-c072-42c9-8373-0e0707d6524e" />
+
+
+templates: @bunnysp1ce on tumblr
