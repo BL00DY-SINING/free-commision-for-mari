@@ -19,9 +19,14 @@ Alice's bio
 
 
 
+
   
   <p align="center">
-[insert stuff here]
+[insert bio and info here]
+
+
+
+
 
 
 
