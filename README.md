@@ -9,13 +9,17 @@
   <p align="center">
 <img width="400" height="11" alt="tumblr_6d038defc1e793417135f6087b3e758a_b0951063_400" src="https://github.com/user-attachments/assets/7ed837c9-ea4f-45ac-afbe-16d1f404319f" />
 <p align="center">
-Maria's bio
+Alice's bio
   
   <p align="center">
     <img width="1232" height="23" alt="typewriter (4)" src="https://github.com/user-attachments/assets/45f16395-7f19-4c71-a777-bcbc23579bbb" />
 
 <p align="center">
 <img width="100" height="100" alt="tumblr_0583adda5fef37014c9b48db1451b440_d6970c1e_100" src="https://github.com/user-attachments/assets/ba5ac0ab-7762-451a-b3f0-2199e887d265" />
+
+
+
+  
   <p align="center">
 [insert stuff here]
 
